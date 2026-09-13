@@ -8,3 +8,5 @@ Q2 what are word embeddings, why do we need them?
 - - - 
 Q3 explain Continous bag of words Embedding.
 - - - 
+Q4 What is the main difference between continous bag of words and skipgram?
+- - - 
